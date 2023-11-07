@@ -3,13 +3,10 @@
 </div>
 
 ### Hi there, I'm [Mounish Vatti](https://github.com/mounishvatti) 👋
-<!--
-**mounishvatti/mounishvatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
-- 🔭 I’m currently working on something cool 
+- 🔭 I’m working on something cool rn
 - 🌱 I’m currently learning Data Structures & Algorithms 
-- 💬 Ask me about Web Development
+- 💬 Ask me about Web Development 🌐
 - 📫 How to reach me: mounishvatti@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I code in the dark 🥷🏻
