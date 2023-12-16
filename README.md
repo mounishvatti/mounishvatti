@@ -6,8 +6,6 @@
 
 - 🔭 I’m working on something cool rn
 - 🌱 I’m currently learning Data Structures & Algorithms 
-- 💬 Ask me about Web Development 🌐
 - 📫 How to reach me: mounishvatti@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I code in the dark 🥷🏻
 
