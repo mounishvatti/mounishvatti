@@ -4,7 +4,7 @@
 
 ### Hi there, I'm [Mounish Vatti](https://github.com/mounishvatti) 👋
 
-- 🔭 I’m working on something cool rn
+- 🔭 I’m working on Healthy-You
 - 🌱 I’m currently learning Data Structures & Algorithms 
 - 📫 How to reach me: mounishvatti@gmail.com
 - 😄 Pronouns: He/Him
