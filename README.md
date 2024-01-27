@@ -1,13 +1,14 @@
 <div id="header" align="center">
   <img src="https://github.com/mounishvatti/mounishvatti/assets/76279858/2d32e1d3-240e-427b-9cc4-bcc9c42bc8b7" width="250"/>
+  <br><br>
+  <hr>
+  <h1>Hi there, I'm [Mounish Vatti](https://github.com/mounishvatti) 👋</h1>
 </div>
 
-# Hi there, I'm [Mounish Vatti](https://github.com/mounishvatti) 👋
-
-- 🔭 I’m working on Healthy-You
-- 🌱 I’m currently learning Data Structures & Algorithms 
-- 📫 How to reach me: mounishvatti@gmail.com
-- 😄 Pronouns: He/Him
+🔭 I’m working on Healthy-You
+🌱 I’m currently learning Data Structures & Algorithms 
+📫 How to reach me: mounishvatti@gmail.com
+😄 Pronouns: He/Him
 
 <hr>
 
