@@ -2,11 +2,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif">
 </div>
 
-<div id="header" align="center">
-  <img src="https://github.com/mounishvatti/mounishvatti/blob/main/assets/76279858/2d32e1d3-240e-427b-9cc4-bcc9c42bc8b7.png" width="250"/>
-  <br>
-</div>
-
 <h2 align="center" style="font-family: 'Courier New', monospace;">Hi 👋, I'm Mounish Vatti</h2>
 <h3 align="center" style="font-family: 'Courier New', monospace;">Web Developer | Competitive Programmer | Video Editor | UI/UX</h3>
 <br>
