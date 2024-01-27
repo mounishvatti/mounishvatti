@@ -14,9 +14,7 @@
 
 - 🔭 I’m currently working on [Healthy-You](https://github.com/mounishvatti/healthy-you-app)
 - 🌱 I’m currently learning **Data Structures & Algorithms**
-- 👯 I’m looking to collaborate on **open source projects**
 - 🌐 View my portfolio [mounishvatti.netlify.app](https://mounishvatti.netlify.app/)
-- 💬 Ask me about **Web Development**
 - 📫 How to reach me **mounishvatti2002@gmail.com**
 
 <br>
@@ -63,14 +61,3 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 <br>
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mounishvatti&show_icons=true&locale=en" alt="mounishvatti" />
-</p>
-
-<p align="right">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mounishvatti&show_icons=true&locale=en" alt="mounishvatti" />
-</p>
-
-<p align="right">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mounishvatti&" alt="mounishvatti" />
-</p>
