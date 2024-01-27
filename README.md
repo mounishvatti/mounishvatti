@@ -7,6 +7,8 @@
 <h3 align="center">Web Developer | Competitive Programmer | Video Editor | UI/UX</h3>
 <br>
 
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/>
+
 - 🔭 I’m currently working on [Healthy-You](https://github.com/mounishvatti/healthy-you-app)
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
