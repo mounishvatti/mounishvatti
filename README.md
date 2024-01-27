@@ -6,6 +6,7 @@
 <h1 align="center">Hi 👋, I'm Mounish Vatti</h1>
 <h3 align="center">Web Developer | Competitive Programmer | Video Editor | UI/UX</h3>
 <br>
+
 - 🔭 I’m currently working on [Healthy-You](https://github.com/mounishvatti/healthy-you-app)
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
@@ -17,6 +18,7 @@
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **mounishvatti2002@gmail.com**
+
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
