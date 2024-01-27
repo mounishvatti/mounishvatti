@@ -5,10 +5,10 @@
   <h1>Hi there, I'm [Mounish Vatti](https://github.com/mounishvatti) 👋</h1>
 </div>
 
-🔭 I’m working on Healthy-You
-🌱 I’m currently learning Data Structures & Algorithms 
-📫 How to reach me: mounishvatti@gmail.com
-😄 Pronouns: He/Him
+🔭 I’m working on Healthy-You <br>
+🌱 I’m currently learning Data Structures & Algorithms <br>
+📫 How to reach me: mounishvatti@gmail.com <br>
+😄 Pronouns: He/Him <br>
 
 <hr>
 
