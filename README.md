@@ -17,4 +17,7 @@
 
 <hr>
 
+<div align = "center">
+  ## Socials 
+</div>
 
