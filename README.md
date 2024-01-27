@@ -34,7 +34,7 @@
 </p>
 
 <br>
-<h3 align="left" style="font-family: 'Courier New', monospace;">Languages and Tools <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"/></h3>
+<h3 align="left" style="font-family: 'Courier New', monospace;">Languages and Tools <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="30" width="40"/></h3>
 <p align="left">
   <!-- Programming Languages -->
   <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
