@@ -7,7 +7,7 @@
 </div>
 
  
-🔭 I’m working on Healthy-You <br>
+🔭 I’m working on a website named Healthy-You <br>
 🌱 I’m currently learning Data Structures & Algorithms <br>
 📫 How to reach me: mounishvatti@gmail.com <br>
 😄 Pronouns: He/Him <br>
@@ -21,6 +21,6 @@
 <hr>
 
 <div align = "center">
-   <h2>Socials</h2> 
+   <h2>Socials 🤳🏻</h2> 
 </div>
 
