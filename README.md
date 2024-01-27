@@ -1,10 +1,12 @@
 <div id="header" align="center">
   <img src="https://github.com/mounishvatti/mounishvatti/assets/76279858/2d32e1d3-240e-427b-9cc4-bcc9c42bc8b7" width="250"/>
-  <br><br>
-  <hr>
-  <h1>Hi there, I'm [Mounish Vatti](https://github.com/mounishvatti) 👋</h1>
+  <br>
+
+  # Hi there, I'm [Mounish Vatti](https://github.com/mounishvatti) 👋
+  
 </div>
 
+ 
 🔭 I’m working on Healthy-You <br>
 🌱 I’m currently learning Data Structures & Algorithms <br>
 📫 How to reach me: mounishvatti@gmail.com <br>
