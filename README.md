@@ -51,6 +51,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mounishvatti&show_icons=true&locale=en" alt="mounishvatti" />
 </p>
 
-<p align="center">
+<p align="right">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mounishvatti&" alt="mounishvatti" />
 </p>
