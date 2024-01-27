@@ -6,8 +6,6 @@
 <h1 align="center">Hi 👋, I'm Mounish Vatti</h1>
 <h3 align="center">Web Developer | Competitive Programmer | Video Editor | UI/UX</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mounishvatti" alt="mounishvatti" /></a> </p>
-
 - 🔭 I’m currently working on [Healthy-You](https://github.com/mounishvatti/healthy-you-app)
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
@@ -36,5 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mounishvatti&show_icons=true&locale=en" alt="mounishvatti" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mounishvatti&" alt="mounishvatti" /></p>
+
 
 
