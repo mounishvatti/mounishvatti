@@ -12,10 +12,6 @@
 <h1 align="center" style="font-family: 'Courier New', monospace;">Web Developer | Competitive Programmer | Video Editor | UI/UX</h3>
 <br>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300"/>
-</p>
-
 - 🔭 I’m currently working on [Healthy-You](https://github.com/mounishvatti/healthy-you-app)
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 - 👯 I’m looking to collaborate on **open source projects**
