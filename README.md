@@ -9,7 +9,7 @@
 </div>
 
 <h1 align="center" style="font-family: 'Courier New', monospace;">Hi 👋, I'm Mounish Vatti</h1>
-<h3 align="center" style="font-family: 'Courier New', monospace;">Web Developer | Competitive Programmer | Video Editor | UI/UX</h3>
+<h1 align="center" style="font-family: 'Courier New', monospace;">Web Developer | Competitive Programmer | Video Editor | UI/UX</h3>
 <br>
 
 <p align="center">
