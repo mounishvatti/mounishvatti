@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/mounishvatti/mounishvatti/assets/76279858/2d32e1d3-240e-427b-9cc4-bcc9c42bc8b7" width="250"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif">
   <br>
 </div>
 
