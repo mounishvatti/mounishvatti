@@ -47,7 +47,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mounishvatti&show_icons=true&locale=en&layout=compact" alt="mounishvatti" />
 </p>
 
-<p align="center">
+<p align="right">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mounishvatti&show_icons=true&locale=en" alt="mounishvatti" />
 </p>
 
