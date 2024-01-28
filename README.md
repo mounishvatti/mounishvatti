@@ -55,4 +55,4 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mounishvatti&hide_progress=false&theme=transparent&layout=donut)
-![Mounish's GitHub stats](https://github-readme-stats.vercel.app/api?username=mounishvatti&theme=transparent&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mounishvatti&theme=transparent&show_icons=true)
