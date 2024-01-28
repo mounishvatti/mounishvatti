@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif">
 </div>
 
-<h1 align="center" style="font-family: 'Courier New', monospace;">Hi 👋, I'm Mounish Vatti</h1>
+<h1 align="center" style="font-family: 'Courier New', monospace;">Hi 👋🏻, I'm Mounish Vatti</h1>
 <h3 align="center" style="font-family: 'Courier New', monospace;">Web Developer  |  Competitive Programmer  |  Video Editor  |  UI/UX</h3>
 <br>
 
@@ -22,7 +22,7 @@
 </p>
 
 <br>
-<h3 align="left" style="font-family: 'Courier New', monospace;">Languages and Tools: </h3>
+<h3 align="left" style="font-family: 'Courier New', monospace;">Languages and Tools</h3>
 <p align="left">
   <!-- Programming Languages -->
   <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
