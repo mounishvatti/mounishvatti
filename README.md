@@ -1,5 +1,7 @@
 <div id="header" align="center">
+  
   ![octocat-1706433307732](https://github.com/mounishvatti/mounishvatti/assets/76279858/74a7fb10-ff8a-4e24-a503-d7d5c58c19e7)
+  
 </div>
 
 <h1 align="center" style="font-family: 'Courier New', monospace;">Hi 👋🏻, I'm Mounish Vatti</h1>
