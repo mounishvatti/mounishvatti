@@ -54,5 +54,5 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mounishvatti&hide_progress=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mounishvatti&hide_progress=false&theme=transparent)
 ![Mounish's GitHub stats](https://github-readme-stats.vercel.app/api?username=mounishvatti&theme=transparent&show_icons=false)
