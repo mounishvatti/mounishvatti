@@ -56,4 +56,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mounishvatti&hide_progress=true&theme=transparent)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mounishvatti&repo=pandacoinweb3)](https://github.com/mounishvatti/pandacoinweb3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mounishvatti&theme=transparent&repo=pandacoinweb3)](https://github.com/mounishvatti/pandacoinweb3)
