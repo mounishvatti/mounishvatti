@@ -8,17 +8,17 @@
 <h3 align="center" style="font-family: 'Courier New', monospace;">Web Developer  |  Competitive Programmer  |  Video Editor  |  UI/UX</h3>
 <br>
 
-- 🔭 I’m currently working on [Healthy-You](https://github.com/mounishvatti/healthy-you-app)
-- 🌱 I’m currently learning **Data Structures & Algorithms**
-- 🌐 View my portfolio [mounishvatti.netlify.app](https://mounishvatti.netlify.app/)
-- 📫 How to reach me **mounishvatti2002@gmail.com**
+🔭 I’m currently working on [Healthy-You](https://github.com/mounishvatti/healthy-you-app)<br>
+🌱 I’m currently learning **Data Structures & Algorithms**<br>
+🌐 View my portfolio [mounishvatti.netlify.app](https://mounishvatti.netlify.app/)<br>
+📫 How to reach me [mounishvatti2002@gmail.com](mailto:mounishvatti2002@gmail.com)
 
 <br>
 
 <h2 align="left">Socials</h2>
 <p align="left">  
   <a href="https://twitter.com/mounish_vatti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mounish_vatti" height="20" width="30" /></a>
-  <a href="https://linkedin.com/in/mounishvatti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mounishvatti" height="20" width="30" /></a>
+  <a href="https://linkedin.com/in/mounish-vatti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mounishvatti" height="20" width="30" /></a>
   <a href="https://fb.com/mounishvatti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mounishvatti" height="20" width="30" /></a>
   <a href="https://instagram.com/mounishvatti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mounishvatti" height="20" width="30" /></a>
   
