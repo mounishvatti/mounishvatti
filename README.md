@@ -21,6 +21,8 @@
   <a href="https://linkedin.com/in/mounishvatti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mounishvatti" height="20" width="30" /></a>
   <a href="https://fb.com/mounishvatti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mounishvatti" height="20" width="30" /></a>
   <a href="https://instagram.com/mounishvatti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mounishvatti" height="20" width="30" /></a>
+  
+  ![](https://dcbadge.vercel.app/api/shield/767721020588556319)
 </p>
 
 <h1 align="left">Technology stack</h1>
