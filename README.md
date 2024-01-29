@@ -17,10 +17,10 @@
 
 <h2 align="left">Socials</h2>
 <p align="left">  
-  <a href="https://twitter.com/mounish_vatti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mounish_vatti" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/mounishvatti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mounishvatti" height="30" width="40" /></a>
-  <a href="https://fb.com/mounishvatti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mounishvatti" height="30" width="40" /></a>
-  <a href="https://instagram.com/mounishvatti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mounishvatti" height="30" width="40" /></a>
+  <a href="https://twitter.com/mounish_vatti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mounish_vatti" height="20" width="30" /></a>
+  <a href="https://linkedin.com/in/mounishvatti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mounishvatti" height="20" width="30" /></a>
+  <a href="https://fb.com/mounishvatti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mounishvatti" height="20" width="30" /></a>
+  <a href="https://instagram.com/mounishvatti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mounishvatti" height="20" width="30" /></a>
 </p>
 
 <h1 align="left">Technology stack</h1>
