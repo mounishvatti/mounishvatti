@@ -62,4 +62,3 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mounishvatti&hide_progress=false&theme=dark&layout=donut)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mounishvatti&theme=dark&show_icons=true)
