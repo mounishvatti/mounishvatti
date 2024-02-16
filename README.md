@@ -5,8 +5,8 @@
 
 🔭 I’m currently working on [Healthy-You](https://github.com/mounishvatti/healthy-you-app)<br>
 🌱 I’m currently learning **Data Structures & Algorithms**<br>
-🌐 View my portfolio [mounishvatti.netlify.app](https://mounishvatti.netlify.app/)<br>
-📫 How to reach me [mounishvatti2002@gmail.com](mailto:mounishvatti2002@gmail.com)
+🌐 View my [portfolio](https://mounishvatti.netlify.app/)<br>
+📫 [Mail me](mailto:mounishvatti2002@gmail.com)
 
 <br>
 
