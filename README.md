@@ -1,8 +1,3 @@
-<div id="header" align="center">
-
-  <img src="https://github.com/mounishvatti/mounishvatti/assets/76279858/74a7fb10-ff8a-4e24-a503-d7d5c58c19e7" alt="octocat" width = 400>
-  
-</div>
 
 <h1 align="center" style="font-family: 'Courier New', monospace;">Hi 👋🏻, I'm Mounish Vatti</h1>
 <h3 align="center" style="font-family: 'Courier New', monospace;">Web Developer  |  Competitive Programmer  |  Video Editor  |  UI/UX</h3>
