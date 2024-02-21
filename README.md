@@ -1,6 +1,6 @@
 
 <h1 align="center" style="font-family: 'Courier New', monospace;">Hi 👋🏻, I'm Mounish Vatti</h1>
-<h3 align="center" style="font-family: 'Courier New', monospace;">Web Developer  |  Competitive Programmer  |  Video Editor  |  UI/UX</h3>
+<h3 align="center" style="font-family: 'Courier New', monospace;">Web Developer  |  Competitive Programmer  |  Video Editor </h3>
 <br>
 
 🔭 I’m currently working on [Healthy-You](https://github.com/mounishvatti/healthy-you-app)<br>
