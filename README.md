@@ -3,9 +3,9 @@
 <h3 align="center" style="font-family: 'Courier New', monospace;">Web Developer  |  Competitive Programmer  |  Video Editor </h3>
 <br>
 
-🔭 I’m currently working on [`Healthy-You`](https://github.com/mounishvatti/healthy-you-app)<br>
+🔭 I’m currently working on a **🏦 Banking Website**<br>
 🌱 I’m currently learning **Data Structures & Algorithms**<br>
-🌐 View my [`portfolio`](https://mounishvatti.netlify.app/)<br>
+🌐 View my [`Portfolio`](https://mounishvatti.netlify.app/)<br>
 📫 Mail me at: [`mounishvatti2002@gmail.com`](mailto:mounishvatti2002@gmail.com)
 
 <h2 align="left">Socials</h2>
