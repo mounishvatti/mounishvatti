@@ -1,5 +1,5 @@
 
-<h1 align="center" style="font-family: 'Courier New', monospace;">Hey y'all, I'm Mounish</h1>
+<h1 align="center" style="font-family: 'Courier New', monospace;">hey y'all, I'm Mounish</h1>
 <h3 align="center" style="font-family: 'Courier New', monospace;">Web Developer  |  Competitive Programmer  |  Video Editor </h3>
 <br>
 
