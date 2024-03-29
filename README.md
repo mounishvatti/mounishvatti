@@ -23,27 +23,17 @@ const about = {
 
 ```javascript
 let techstack = {
-
     languages: "C, C++, Java, Python, Rust (still learning)",
-
     IDEs: "VS Code, Apache Netbeans, Sublime Text, Google Colab, Jupyter Notebook",
-
     frameworks: "React, Bootstrap/TailwindCSS",
-
     databases: "MySQL, MongoDB, PostgreSQL",
-
     servers: "Node.js (Express)",
-
     versioning: "Git, GitHub",
-
     cloud: "aws",
-
     operatingSystems: "Linux, macOS",
-
     editingTools: "Figma, DaVinci Resolve, iMovie",
 };
 
 console.log("Familiar with Data Structures & OOPs");
-
 console.log("Love creating responsive and aesthetic websites");
 ```
