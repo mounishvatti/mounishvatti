@@ -5,7 +5,7 @@
 ```javascript
 const about = {
 
-  webDev: "I make websites which are prettier than your ex",
+  webDev: "I code websites which are prettier than your ex",
 
   cp: "I love doing competitive programming, I prefer c++ tho",
 
