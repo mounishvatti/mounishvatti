@@ -9,7 +9,7 @@ const about = {
 
   cp: "I love doing competitive programming, I prefer c++ tho",
 
-  editing: "I edit videos in my free time {I made a couple of valorant montages}"
+  editing: "I edit videos in my free time { I made a couple of valorant montages }"
 
 };
 ```
