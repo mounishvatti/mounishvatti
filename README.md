@@ -1,6 +1,6 @@
 
-<h1 align="center" style="font-family: 'Courier New', monospace;">Hey y'all, I'm Mounish</h1>
-<h3 align="center" style="font-family: 'Courier New', monospace;">Web Developer  |  Competitive Programmer  |  Video Editor </h3>
+<h1 align="center">Hey y'all, I'm Mounish</h1>
+<h3 align="center">Web Developer  |  Competitive Programmer  |  Video Editor </h3>
 <br>
 
 🔭 I’m currently working on a **🏦 Banking Website**<br>
