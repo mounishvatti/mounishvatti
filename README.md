@@ -1,13 +1,18 @@
 
 <h1 align="center">Hey y'all, I'm Mounish</h1>
-<h3 align="center">Web Developer  |  Competitive Programmer  |  Video Editor </h3>
 <br>
 
-🔭 I’m currently working on a **🏦 Banking Website**<br>
-🌱 I’m currently learning **Data Structures & Algorithms**<br>
-🌐 View my [`Portfolio`](https://mounishvatti.netlify.app/)<br>
-📫 Mail me at: [`mounishvatti2002@gmail.com`](mailto:mounishvatti2002@gmail.com)
+```javascript
+const about = {
 
+  webDev: "I make websites which are prettier than your ex",
+
+  cp: "I love doing competitive programming, I prefer c++ tho",
+
+  editing: "I edit videos in my free time {I made a couple of valorant montages}"
+
+};
+```
 <h2 align="left">Socials</h2>
 <p align="left">  
   <a href="https://twitter.com/mounish_vatti" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="mounish_vatti-x"/></a>
@@ -21,20 +26,29 @@
   ![](https://dcbadge.vercel.app/api/shield/767721020588556319)
 </p>
 
-<h2 align="left">Technology Stack</h2>
+```javascript
+let techstack = {
 
-![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) 
+    languages: "C, C++, Java, Python, Rust (still learning)",
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+    IDEs: "VS Code, Apache Netbeans, Sublime Text, Google Colab, Jupyter Notebook",
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white) ![Node.js ](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge) 
+    frameworks: "React, Bootstrap/TailwindCSS",
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+    databases: "MySQL, MongoDB, PostgreSQL",
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white) ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51.svg?style=for-the-badge&logo=DaVinci-Resolve&logoColor=white) 
+    servers: "Node.js (Express)",
 
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+    versioning: "Git, GitHub",
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white) 
+    cloud: "aws",
 
-![macOS](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black) 
+    operatingSystems: "Linux, macOS",
+
+    editingTools: "Figma, DaVinci Resolve, iMovie",
+};
+
+console.log("Familiar with Data Structures & OOPs");
+
+console.log("Love creating responsive and aesthetic websites");
+```
