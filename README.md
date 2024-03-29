@@ -16,7 +16,7 @@ const about = {
 <h2 align="left">Socials</h2>
 <p align="left">  
   <a href="https://linkedin.com/in/mounish-vatti" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="mounishvatti-linkedin"/></a>
-  <a href="https://leetcode.com/mounishvatti/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="mounishvatti-pinterest"/></a>
+  <a href="https://leetcode.com/mounishvatti/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="mounishvatti-leetcode"/></a>
   
   ![](https://dcbadge.vercel.app/api/shield/767721020588556319)
 </p>
