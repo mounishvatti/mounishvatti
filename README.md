@@ -7,9 +7,9 @@ const about = {
 
   webDev: "I code websites that are prettier than your exes",
 
-  cp: "I love doing competitive programming, I prefer c++ tho",
+  cp: "I love doing competitive programming, I prefer C++ tho",
 
-  editing: "I edit videos in my free time { I made a couple of valorant montages }"
+  editing: "I edit videos in my free time {I made a couple of Valorant montages}"
 
 };
 ```
@@ -22,18 +22,18 @@ const about = {
 </p>
 
 ```javascript
-let techstack = {
+let techStack = {
     languages: "C, C++, Java, Python, Rust (still learning)",
-    IDEs: "VS Code, Apache Netbeans, Sublime Text, Google Colab, Jupyter Notebook",
+    IDEs: "VS Code, WebStorm, Apache Netbeans, Sublime Text, Google Colab, Jupyter Notebook",
     frameworks: "React, Bootstrap/TailwindCSS",
     databases: "MySQL, MongoDB, PostgreSQL",
     servers: "Node.js (Express)",
     versioning: "Git, GitHub",
-    cloud: "aws",
+    cloud: "AWS",
     operatingSystems: "Linux, macOS",
     editingTools: "Figma, DaVinci Resolve, iMovie",
 };
 
 console.log("Familiar with Data Structures & OOPs");
-console.log("Love creating responsive and aesthetic websites");
+console.log("Love creating end-to-end responsive and aesthetic websites");
 ```
