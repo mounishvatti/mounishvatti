@@ -1,4 +1,4 @@
-## About - 👨🏻‍💻🍕🧋🍪
+## About - 👨🏻‍💻🧋
 
 ### Building a successful product is a challenge. I am highly passionate about user experience, problem-solving, and product development.
 
