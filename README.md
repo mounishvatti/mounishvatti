@@ -1,7 +1,7 @@
 ![@mounishvatti](https://github.com/mounishvatti/mounishvatti/assets/76279858/19693e63-4882-4f5a-b97e-72fcbc285cc8)
 
 <div align="center">
-     <h1>I believe in CL/CD - Continuous Learning & Continuous Development</h1>     
+     <h2>I believe in CL/CD - Continuous Learning & Continuous Development</h2>     
 </div>
 
 ## ⌘ - Tech Stack
