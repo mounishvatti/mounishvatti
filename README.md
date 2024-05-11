@@ -1,8 +1,10 @@
-# About me - 👨🏻‍💻
+<div align="center">
+   <h1>About me - 👨🏻‍💻</h1> 
+</div>
 
-## I believe in CL/CD - Continuous Learning & Continuous Development ⎇
-
-### Building a successful product is a challenge. I am highly passionate about user experience, problem-solving, and product development.
+<div align="center">
+     <h2>I believe in CL/CD - Continuous Learning & Continuous Development ⎇</h2>     
+</div>
 
 ## ⌘ - Tech Stack
 <div>
@@ -34,6 +36,7 @@
           
 ## Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=auto)
+
 
 <div align="center">
   
