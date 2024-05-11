@@ -1,4 +1,4 @@
-![@mounishvatti](https://github.com/mounishvatti/mounishvatti/assets/76279858/19693e63-4882-4f5a-b97e-72fcbc285cc8)
+![@mounishvatti](https://github.com/mounishvatti/mounishvatti/assets/76279858/d36daac5-b235-43ca-bff0-5f41011f126e)
 
 ## ⌘ - Tech Stack
 <div>
