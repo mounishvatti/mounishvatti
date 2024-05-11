@@ -1,9 +1,5 @@
 ![@mounishvatti](https://github.com/mounishvatti/mounishvatti/assets/76279858/19693e63-4882-4f5a-b97e-72fcbc285cc8)
 
-<div align="center">
-     <h2>I believe in CL/CD - Continuous Learning & Continuous Development</h2>     
-</div>
-
 ## ⌘ - Tech Stack
 <div>
 
@@ -31,11 +27,14 @@
 | Git | Docker | Vercel | Netlify | AWS | VSCode | IntelliJ |
 |----------|----------|----------|----------|----------|----------|---------|
 |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="40" height="40"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" height="40"/> | 
+
+<hr>
           
 ## Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=auto)
 
 
+<hr>
 <div align="center">
   
   [![](https://visitcount.itsvg.in/api?id=mounishvatti&icon=7&color=12)](https://visitcount.itsvg.in)
