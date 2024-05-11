@@ -1,6 +1,6 @@
 # About - 👨🏻‍💻
 
-## I believe in CL/CD - Continuous Learning & Continuous Development 🚀
+## I believe in CL/CD - Continuous Learning & Continuous Development ⎇
 
 ### Building a successful product is a challenge. I am highly passionate about user experience, problem-solving, and product development.
 
