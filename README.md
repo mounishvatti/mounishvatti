@@ -1,10 +1,12 @@
-![@mounishvatti](https://github.com/mounishvatti/mounishvatti/assets/76279858/d36daac5-b235-43ca-bff0-5f41011f126e)
+<div align = "center">
+          <img src="https://github.com/mounishvatti/mounishvatti/assets/76279858/d36daac5-b235-43ca-bff0-5f41011f126e"/> 
+</div>
 
 ## ⌘ - Tech Stack
 
 <div align = "center">
 
-### Languages
+### {/} - Languages
 | C | C++ | Java | Python | 
 |----------|----------|----------|-------| 
 | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="40" height="40"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/> |
@@ -30,13 +32,10 @@
 |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="40" height="40"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" height="40"/> | 
 
           
-## Dev Quote
+## ❝ Dev Quote ❞
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=auto)
 
-
-<hr>
-
-  [![](https://visitcount.itsvg.in/api?id=mounishvatti&icon=7&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mounishvatti&icon=7&color=12)](https://visitcount.itsvg.in)
   
 </div>
 
