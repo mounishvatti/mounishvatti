@@ -3,7 +3,7 @@
 </div>
 
 <div align = "center">
-          <h1>Currently working on SaaS tool 👨🏻‍💻🚀</h1>
+          <h1>Currently working on a SaaS tool 👨🏻‍💻🚀</h1>
 </div>
 
 ## ⌘ - Tech Stack
