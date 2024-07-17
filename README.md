@@ -1,8 +1,6 @@
 ## About me
 
-- I am a pre-final year student at Vellore Institute of Technology (VIT) pursuing Computer Science and Engineering.
-- Building a successful product is always a challenge. I am highly passionate about user experience, problem-solving, and product development.
-- Besides my technical skills, I am deeply committed to continuous learning and personal growth. I constantly seek new knowledge and experiences to enhance my understanding and capabilities.
+Hi there! I'm Mounish, a CS graduate based in India who loves to build things and explore various techstacks. I am highly passionate about user experience, problem-solving, and product development.
 
 ## ⌘ - Tech Stack
 
