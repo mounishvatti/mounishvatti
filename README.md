@@ -1,6 +1,6 @@
 ## About me
 
-Hi there! I'm Mounish, a CS graduate based in India who loves to build things and explore various techstacks. I am highly passionate about user experience, problem-solving, and product development.
+Hi there! I'm Mounish, a Computer Science graduate based in India who loves to build things and explore various techstacks. I am highly passionate about user experience, problem-solving, and product development.
 
 ## ⌘ - Tech Stack
 
