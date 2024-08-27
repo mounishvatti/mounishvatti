@@ -1,4 +1,4 @@
-Currently exploring the MERN stack.
+Currently exploring the {MERN stack}
 
 
   
