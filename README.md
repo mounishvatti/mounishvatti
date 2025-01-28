@@ -1,4 +1,6 @@
-### Hey there! 👋
+![1500x500](https://github.com/user-attachments/assets/ece63139-1272-47a4-9719-37e0222b2aa5)
+
+## Hey there! 👋
 
 I’m Mounish, a Computer Science student and Software Intern at Bosch, where I’m busy turning ideas into code (and sometimes breaking things, but hey, that’s part of the process, right?).
 
