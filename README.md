@@ -2,6 +2,6 @@
 
 ## Hey there! 👋
 
-### I’m Mounish, a Computer Science student and Software Intern at Bosch.
+### I’m Mounish, a Computer Science student and Software Intern at @bosch.
 
 ### More about me @ [mounishvatti.me](https://mounishvatti.me)
