@@ -3,5 +3,4 @@
 ## Hey there! 👋
 
 ### I’m Mounish, a Computer Science student and Software Intern at Bosch.
-
 ### More about me @ [mounishvatti.me](https://mounishvatti.me)
