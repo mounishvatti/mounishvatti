@@ -2,5 +2,5 @@
 
 ### Hey there! 👋
 
-#### I’m Mounish, a Computer Science graduate and Software Dev at Bosch.
+#### I’m Mounish, a Computer Science graduate and Software Developer at Bosch.
 #### More about me @ [mounish.wiki](https://www.mounish.wiki)
