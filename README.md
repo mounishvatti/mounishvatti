@@ -2,5 +2,4 @@
 
 ### Hey y'all! 👋
 
-#### I’m Mounish, a Computer Science graduate and a Software Developer.
-#### More about me at [mounish.wiki](https://www.mounish.wiki)
+I’m Mounish, a Computer Science graduate and a Software Developer
